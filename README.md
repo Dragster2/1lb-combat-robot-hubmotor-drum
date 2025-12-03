@@ -1,5 +1,11 @@
 # 1lb-combat-robot-hubmotor-drum
 This project is focus on design a custom 7075 drum running a highly customize motor in it. Designing the weapon to powerful but making sure to keep the motor safe inside and stronger in the weapon by making them become a custom hub motor assembly!!
+<img width="824" height="497" alt="image" src="https://github.com/user-attachments/assets/b1b1ad31-3c71-4142-b22d-2ecb03c9a5b3" />
+
+Here is a wirring diagram, this is almost the whole bots wiring diagram besides the drive motors.
+<img width="1224" height="687" alt="image" src="https://github.com/user-attachments/assets/b802509c-5f9d-456c-8e49-7ba427c655da" />
+
+
 <img width="815" height="568" alt="image" src="https://github.com/user-attachments/assets/71554a34-9043-4ae1-a00a-3c5c2f8383a9" />
 
 
