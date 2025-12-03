@@ -1,5 +1,7 @@
 # 1lb-combat-robot-hubmotor-drum
 This project is focus on design a custom 7075 drum running a highly customize motor in it. Designing the weapon to powerful but making sure to keep the motor safe inside and stronger in the weapon by making them become a custom hub motor assembly!!
+
+How does this work? It is running two flanged bearings on each side to take the impact of when the drum hit something. The motor inside the drum is highy customize. For example it goes from a 4mm ti shaft to 1/4in thick ti shaft making it way stronger. I do this by punching the bearings out of the stator and the shaft  fits right in with some tpu spacers. The cam on the motor is also highly customize from stock by 
 <img width="824" height="497" alt="image" src="https://github.com/user-attachments/assets/b1b1ad31-3c71-4142-b22d-2ecb03c9a5b3" />
 
 Here is a wirring diagram, this is almost the whole bots wiring diagram besides the drive motors.
